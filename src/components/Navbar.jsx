@@ -44,6 +44,10 @@ const Navbar = () => {
               className="text-gray-700 hover:text-blue-600 transition-colors font-medium"
             >
               Our Services
+              to="/about"
+              className="text-gray-700 hover:text-blue-600 transition-colors font-medium"
+            >
+              About us
             </Link>
           </div>
 
