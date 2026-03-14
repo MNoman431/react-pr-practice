@@ -40,6 +40,10 @@ const Navbar = () => {
               Contact
             </Link>
             <Link
+              to="/our-services"
+              className="text-gray-700 hover:text-blue-600 transition-colors font-medium"
+            >
+              Our Services
               to="/about"
               className="text-gray-700 hover:text-blue-600 transition-colors font-medium"
             >
